@@ -5,6 +5,8 @@
 💻 Passionate about AI, Data Science, and building innovative software systems.  
 </p>
 
+<img src="" alt="Cover Image" width="100%" />
+
 ---
 
 ## 🛠️ Technical Skills  
@@ -90,5 +92,4 @@
 
 ---
 
-
-⭐ **If you like my work, consider giving a star to my repositories!** 🌟  
+⭐ **If you like my work, consider giving a star to my repositories!** 🌟
