@@ -1,4 +1,6 @@
-<img src="https://cdn.dribbble.com/userupload/21304209/file/original-43d15e7c78f7b3b5d8c28f01654149fc.gif" alt="Cover Image" width="100%" />
+<p align="center">
+<img src="https://cdn.dribbble.com/userupload/21304209/file/original-43d15e7c78f7b3b5d8c28f01654149fc.gif" alt="Cover Image" style = "width: 100%; object-fit: cover; height: 400px;" />
+</p>
 
 <h1 align="center">Hi there! 👋 I'm Anshaff</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Machine Learning and Software Development Enthusiast</h3>
