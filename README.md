@@ -20,9 +20,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60" height="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" width="60" height="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="60" height="60"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="60" height="60"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60" height="60"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" alt="Scikit-learn" width="60" height="60"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" alt="Pandas" width="60" height="60"/> 
+<img src="https://media.licdn.com/dms/image/D5612AQFSTglfKdI9eg/article-cover_image-shrink_720_1280/0/1708971797430?e=2147483647&v=beta&t=XbyPHd8bw5PLrsaTaad1Sish6jhLezkkp1u52KEpExg" alt="NumPy" width="60"
+  height="60"/> 
 </p>
 
 ### 📂 Additional Technical Skills  
