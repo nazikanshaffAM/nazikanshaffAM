@@ -1,11 +1,11 @@
+<img src="https://cdn.dribbble.com/userupload/21304209/file/original-43d15e7c78f7b3b5d8c28f01654149fc.gif" alt="Cover Image" width="100%" />
+
 <h1 align="center">Hi there! 👋 I'm Anshaff</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Machine Learning and Software Development Enthusiast</h3>
 
 <p align="center">
 💻 Passionate about AI, Data Science, and building innovative software systems.  
 </p>
-
-<img src="" alt="Cover Image" width="100%" />
 
 ---
 
