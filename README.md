@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Anshaff</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | ML Enthusiast | Software Developer</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning and Software Development Enthusiast</h3>
 
 <p align="center">
 💻 Passionate about AI, Data Science, and building innovative software systems.  
