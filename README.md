@@ -1,29 +1,28 @@
 <p align="center">
-<img src="https://cdn.dribbble.com/userupload/21304209/file/original-43d15e7c78f7b3b5d8c28f01654149fc.gif" alt="Cover Image" style = "width: 100%; object-fit: cover; height: 400px;" />
+  <img src="https://cdn.dribbble.com/userupload/21304209/file/original-43d15e7c78f7b3b5d8c28f01654149fc.gif" alt="Cover Image" style="width: 100%; object-fit: cover; height: 400px; border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Anshaff</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning and Software Development Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning & Software Development Enthusiast</h3>
 
 <p align="center">
-💻 Passionate about AI, Data Science, and building innovative software systems.  
+  💻 Passionate about AI, Data Science, and building innovative software solutions.  
 </p>
 
 ---
 
 ## 🛠️ Technical Skills  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <br />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<p align="center"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="60" height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="60" height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60" height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" width="60" height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="60" height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="60" height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60" height="60"/> 
 </p>
 
 ### 📂 Additional Technical Skills  
@@ -38,23 +37,31 @@
 
 ## 🔧 Tools & IDEs  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-  <br />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<p align="center"> 
+<img src="https://www.helenjoscott.com/wp-content/uploads/2020/09/1200px-IntelliJ_IDEA_Logo.png" alt="IntelliJ IDEA" width="60" height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/800px-Apache_NetBeans_Logo.svg.png" alt="NetBeans" width="60" height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="PyCharm" width="60" height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="60" height="60"/> 
+<img src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" alt="VS Code" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/> 
+</p>
+
+---
+## 🔧 Databases
+
+<p align="center"> 
+<img src="https://virtual-dba.com/wp-content/uploads/mysql-database-services-remote-dba.png" alt="MySQL" width="60" height="60"/> 
+<img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="60" height="60"/>  
 </p>
 
 ---
 
+
 ## 📌 Featured Projects & Achievements  
 
-🔹 **Spello** - A gamified speech therapy mobile application 🏆 *2nd Runners-up at Haxmas*  
-🔹 **Breast Cancer Prediction Model** - Predicting mortality & survival using ML algorithms  
-🔹 **More Notable Projects** - *(Check my repositories for more!)*  
+🎯 **Spello** - A gamified speech therapy mobile application 🏆 *2nd Runners-up at Haxmas*  
+🎯 **Breast Cancer Prediction Model** - Predicting mortality & survival using ML algorithms  
+🎯 **More Notable Projects** - *(Check my repositories for more!)*  
 
 📂 **Explore my projects** 👉 [GitHub Repositories](https://github.com/nazikanshaffAM?tab=repositories)  
 
@@ -72,7 +79,7 @@
 
 ---
 
-## 📷 Hobbies & Interests  
+## 🎨 Hobbies & Interests  
 
 🎨 **Drawing** - Expressing creativity through art  
 👨‍🍳 **Cooking** - Exploring new recipes and flavors    
@@ -82,15 +89,19 @@
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anshaffameer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/anshaffameer" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50"/>
   </a>
-  <a href="https://www.instagram.com/nazik_anshaff/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/nazik_anshaff/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:anshaff.nzk@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50"/>
   </a>
 </p>
 
-📧 **Email**: [anshaff.nzk@gmail.com](mailto:anshaff.nzk@gmail.com)  
 
 ---
 
