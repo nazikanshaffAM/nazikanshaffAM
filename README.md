@@ -2,7 +2,7 @@
   <img src="https://cdn.dribbble.com/userupload/21304209/file/original-43d15e7c78f7b3b5d8c28f01654149fc.gif" alt="Cover Image" style="width: 100%; object-fit: cover; height: 400px; border-radius: 10px;" />
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Anshaff</h1>
+<h1 align="center">Hello World! 👋 I'm Anshaff</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Machine Learning & Software Development Enthusiast</h3>
 
 <p align="center">
@@ -44,7 +44,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="PyCharm" width="60" height="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="60" height="60"/> 
 <img src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" alt="VS Code" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="60" height="60"/>
+  
 </p>
 
 ---
