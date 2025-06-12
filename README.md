@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hello World! 👋 I'm Anshaff</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning & Software Development Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning & Artificial Intelligence Enthusiast</h3>
 
 <p align="center">
   💻 Passionate about AI, Data Science, and building innovative software solutions.  
