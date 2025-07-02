@@ -39,6 +39,8 @@
 <img src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" alt="VS Code" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="60" height="60"/>
+
   
 </p>
 
