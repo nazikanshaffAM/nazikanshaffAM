@@ -14,27 +14,20 @@
 ## 🛠️ Technical Skills  
 
 <p align="center"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" alt="Scikit-learn" width="60" height="60"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" alt="Pandas" width="60" height="60"/> 
+<img src="https://media.licdn.com/dms/image/D5612AQFSTglfKdI9eg/article-cover_image-shrink_720_1280/0/1708971797430?e=2147483647&v=beta&t=XbyPHd8bw5PLrsaTaad1Sish6jhLezkkp1u52KEpExg" alt="NumPy" width="60"
+  height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="60" height="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="60" height="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60" height="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" width="60" height="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="60" height="60"/> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" alt="Scikit-learn" width="60" height="60"/> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" alt="Pandas" width="60" height="60"/> 
-<img src="https://media.licdn.com/dms/image/D5612AQFSTglfKdI9eg/article-cover_image-shrink_720_1280/0/1708971797430?e=2147483647&v=beta&t=XbyPHd8bw5PLrsaTaad1Sish6jhLezkkp1u52KEpExg" alt="NumPy" width="60"
-  height="60"/> 
 </p>
 
-### 📂 Additional Technical Skills  
-✅ **Database Management**  
-✅ **Data Modeling**  
-✅ **Data Preprocessing**  
-✅ **Web Development**  
-✅ **Software Development**  
-✅ **MS Office Suite**  
-
----
 
 ## 🔧 Tools & IDEs  
 
@@ -63,8 +56,9 @@
 ## 📌 Featured Projects & Achievements  
 
 🎯 **Spello** - A gamified speech therapy mobile application 🏆 *2nd Runners-up at Haxmas*  
-🎯 **Breast Cancer Prediction Model** - Predicting mortality & survival using ML algorithms  
-🎯 **More Notable Projects** - *(Check my repositories for more!)*  
+🎯 **Breast Cancer Prediction Model**  
+🎯 **Brain Tumor Detection**  
+🎯 **Student Performance Indicator**
 
 📂 **Explore my projects** 👉 [GitHub Repositories](https://github.com/nazikanshaffAM?tab=repositories)  
 
