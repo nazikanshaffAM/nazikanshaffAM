@@ -57,7 +57,8 @@
 
 ## 📌 Featured Projects & Achievements  
 
-🎯 **Spello** - A gamified speech therapy mobile application 🏆 *2nd Runners-up at Haxmas*  
+🎯 **Spello** - A gamified speech therapy mobile application 🏆 *2nd Runners-up at Haxmas*
+🎯 **AI Powered News Research Tool**  
 🎯 **Breast Cancer Prediction Model**  
 🎯 **Brain Tumor Detection**  
 🎯 **Student Performance Indicator**
